@@ -10,28 +10,66 @@ The Sip and Puff Switch has two 3.5 mm mono outputs so it can control two device
 - [Makers Making Change Forum Thread](https://forum.makersmakingchange.com)
 
 
+## Getting Started
 
-## Documentation
-| Document             | Version | Link |
-|----------------------|---------|------|
-| Design Specification | WIP     |      |
-| Design Rationale     | WIP     |      |
-| Bill of Materials    | WIP     |      |
-| Assembly Guide       | 1.0    | [SPA_Instructions](/Documentation/SPA_Instructions_v1.0.pdf)     |
-| Mouthpiece Mount Assembly Guide       | 1.0    | [SPA_MPStand_Instructions](/Documentation/SPA_MPStand_Instructions_v1.0.pdf)     |
-| Maker Checklist      | WIP    |  [SPA_Checklist](/Documentation/SPA_Checklist_v1.0.pdf)    |
-| Quick Guide           | WIP     |     |
-| Changelog              | 1.0    |  [SPA_Changelog](/Documentation/SPA_Changelog_v1.0.pdf)    |
-| PCB Fabrication Manual | 0.1    |  [MMC_PCB_Fabrication_Manual](/Documentation/MMC_PCB_Fabrication_Manual.pdf)     |
+### 1. Order the Off-The-Shelf Components
+The [Bill of Materials](/Documentation/SPA_BOM.xlsx) lists all of the parts and components required to build the Sip and Puff switch.
 
-## Design Files
-[Enclosure CAD Files](/Design_Files/CAD/Enclosure)
-[Mouthpiece Mount CAD Files](/Design_Files/CAD/Mouthpiece_Mount)
-[PCB Files](/Design_Files/PCB/Eagle_Files)
+### 2. Order the Custom Printed Circuit Board (PCB)
+The Sip and Puff Switch uses a custom PCB to mount all of the electronic components. Refer to [MMC_PCB_Fabrication_Manual](\Documentation\PCB\MMC_PCB_Fabrication_Manual.pdf) for information on how to order a custom PCB. For convenience, the final generated Gerber files for several PCB manufacturers are listed below. If you want to use a different manufacturer, instructions for converting the original (Eagle Files)(/Design_Files/PCB/Eagle_Files) are also included in the MMC PCB Fabrication Manual.
 
-## Build Files
-[3D Printing Files](/Build_Files/3D_Printing)
-[PCB Files](/Build_Files/PCB/Gerber_Files)
+| PCB Manufacturer                	| Website                                 	| Gerber Files                                                                                                        	|
+|---------------------------------	|-----------------------------------------	|-------------------------------------------------------------------------------------------------------------	|
+| JLCPCB                          	| https://jlcpcb.com/                     	| [JLCPCB_Sip_And_Puff_Analog_Switch.zip](\Build_Files\PCB\JLCPCB_Sip_And_Puff_Analog_Switch.zip)             	|
+| OSH Park                        	| https://oshpark.com/                    	| [OSHPark_Sip_And_Puff_Analog_Switch.zip](\Build_Files\PCB\OSHPark_Sip_And_Puff_Analog_Switch.zip)           	|
+| Seeed Fusion PCB                	| https://www.seeedstudio.com/fusion.html 	| [Seeed_Fusion_Sip_And_Puff_Analog_Switch.zip](\Build_Files\PCB\Seeed_Fusion_Sip_And_Puff_Analog_Switch.zip) 	|
+
+
+### 3. Print the 3D Printable components
+
+Print the components for the enclosure and the mouthpiece mount: [3D Printing Files](/Build_Files/3D_Printing/)
+
+### 4. Assemble the Switch and Mouthpiece Mount
+
+Reference the instructions for the [Sip and Puff Switch](/Documentation/SPA_Instructions_v1.0.pdf) and the instructions for the [Mouthpiece Stand](/Documentation/SPA_MPStand_Instructions_v1.0.pdf) for the tools and steps required to build each portion.
+
+### 5. Setup
+Reference the [Quick Guide](/Documentation/SPA_Quick_Guide_V1.0.pdf) for instructions on how to connect the tubing from the mouthpiece to the switch and how to connect the cables from the switch to the assistive device. The mouthpiece should be mounted in a suitable location in proximity to the user's mouth.
+
+### 6. Calibration
+
+### 7. Usage
+
+
+
+
+## files
+
+### Documentation
+| Document                        	| Version 	| Link                                                                         	|
+|---------------------------------	|---------	|------------------------------------------------------------------------------	|
+| Design Specification            	| WIP     	|                                                                              	|
+| Design Rationale                	| WIP     	|                                                                              	|
+| Bill of Materials               	| WIP     	|                                                                              	|
+| Assembly Guide                  	| 1.0     	| [SPA_Instructions](/Documentation/SPA_Instructions_v1.0.pdf)                 	|
+| Mouthpiece Mount Assembly Guide 	| 1.0     	| [SPA_MPStand_Instructions](/Documentation/SPA_MPStand_Instructions_v1.0.pdf) 	|
+| Maker Checklist                 	| 1.0     	| [SPA_Checklist](/Documentation/SPA_Checklist_v1.0.pdf)                       	|
+| Quick Guide                     	| WIP     	|                                                                              	|
+| Changelog                       	| 1.0     	| [SPA_Changelog](/Documentation/SPA_Changelog_v1.0.pdf)                       	|
+| PCB Fabrication Manual          	| 0.1     	| [MMC_PCB_Fabrication_Manual](/Documentation/MMC_PCB_Fabrication_Manual.pdf)  	|
+
+### Design Files
+ - [Enclosure CAD Files](/Design_Files/CAD/Enclosure)
+ - [Mouthpiece Mount CAD Files](/Design_Files/CAD/Mouthpiece_Mount)
+ - [PCB Files](/Design_Files/PCB/Eagle_Files)
+
+### Build Files
+ - [3D Printing Files](/Build_Files/3D_Printing)
+ - [PCB Files](/Build_Files/PCB/Gerber_Files)
+
+
+## Versioning
+
 
 ## License
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons Licence" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">Sip and Puff Switch</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="www.makersmakingchange.com" property="cc:attributionName" rel="cc:attributionURL">Neil Squire</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
