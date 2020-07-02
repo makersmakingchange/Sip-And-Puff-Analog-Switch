@@ -4,6 +4,7 @@ The Sip and Puff Switch is an assistive technology that enables a user to contro
 
 The Sip and Puff Switch has two 3.5 mm mono outputs so it can control two devices. The sip threshold and puff threshold are adjustable. The switch is powered by two CR2032 lithium coin cell batteries.
 
+
 ## More info at
 
 - [Makers Making Change Project Page](https://www.makersmakingchange.com/project/sip-and-puff-switch/)
@@ -31,19 +32,22 @@ Print the components for the enclosure and the mouthpiece mount: [3D Printing Fi
 
 ### 4. Assemble the Switch and Mouthpiece Mount
 
-Reference the instructions for the [Sip and Puff Switch](/Documentation/SPA_Instructions_v1.0.pdf) and the instructions for the [Mouthpiece Stand](/Documentation/SPA_MPStand_Instructions_v1.0.pdf) for the tools and steps required to build each portion.
+Reference the assembly instructions for the [Sip and Puff Switch](/Documentation/SPA_Assembly_v1.0.pdf) and the assembly instructions for the [Mouthpiece Stand](/Documentation/SPA_MPStand_Assembly_v1.0.pdf) for the tools and steps required to build each portion.
 
 ### 5. Setup
 Reference the [Quick Guide](/Documentation/SPA_Quick_Guide_V1.0.pdf) for instructions on how to connect the tubing from the mouthpiece to the switch and how to connect the cables from the switch to the assistive device. The mouthpiece should be mounted in a suitable location in proximity to the user's mouth.
 
 ### 6. Calibration
+The sensitivity of the sip and puff threshold can be adjusted independently.
+With the power switch in the 'On' position, have the user
+
 
 ### 7. Usage
+Slide the power switch into the on position.
 
 
 
-
-## files
+## Files
 
 ### Documentation
 | Document                        	| Version 	| Link                                                                         	|
@@ -51,8 +55,8 @@ Reference the [Quick Guide](/Documentation/SPA_Quick_Guide_V1.0.pdf) for instruc
 | Design Specification            	| WIP     	|                                                                              	|
 | Design Rationale                	| WIP     	|                                                                              	|
 | Bill of Materials               	| WIP     	|                                                                              	|
-| Assembly Guide                  	| 1.0     	| [SPA_Instructions](/Documentation/SPA_Instructions_v1.0.pdf)                 	|
-| Mouthpiece Mount Assembly Guide 	| 1.0     	| [SPA_MPStand_Instructions](/Documentation/SPA_MPStand_Instructions_v1.0.pdf) 	|
+| Assembly Guide                  	| 1.0     	| [SPA_Assembly](/Documentation/SPA_Assembly_v1.0.pdf)                 	|
+| Mouthpiece Mount Assembly Guide 	| 1.0     	| [SPA_MPStand_Assembly](/Documentation/SPA_MPStand_Assembly_v1.0.pdf) 	|
 | Maker Checklist                 	| 1.0     	| [SPA_Checklist](/Documentation/SPA_Checklist_v1.0.pdf)                       	|
 | Quick Guide                     	| WIP     	|                                                                              	|
 | Changelog                       	| 1.0     	| [SPA_Changelog](/Documentation/SPA_Changelog_v1.0.pdf)                       	|
