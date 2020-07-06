@@ -14,7 +14,7 @@ The Sip and Puff Switch has two 3.5 mm mono outputs so it can control two device
 ## Getting Started
 
 ### 1. Order the Off-The-Shelf Components
-The [Bill of Materials](/Documentation/SPA_BOM.xlsx) lists all of the parts and components required to build the Sip and Puff switch.
+The [Bill of Materials](/Documentation/SPA_BOM_v1.0.xlsx) lists all of the parts and components required to build the Sip and Puff switch.
 
 ### 2. Order the Custom Printed Circuit Board (PCB)
 The Sip and Puff Switch uses a custom PCB to mount all of the electronic components. Refer to [MMC_PCB_Fabrication_Manual](\Documentation\PCB\MMC_PCB_Fabrication_Manual.pdf) for information on how to order a custom PCB. For convenience, the final generated Gerber files for several PCB manufacturers are listed below. If you want to use a different manufacturer, instructions for converting the original (Eagle Files)(/Design_Files/PCB/Eagle_Files) are also included in the MMC PCB Fabrication Manual.
