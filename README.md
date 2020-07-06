@@ -42,7 +42,7 @@ Reference the assembly instructions for the [Sip and Puff Switch](/Documentation
 |---------------------------------	|---------	|------------------------------------------------------------------------------	|
 | Design Specification            	| WIP     	|                                                                              	|
 | Design Rationale                	| WIP     	|                                                                              	|
-| Bill of Materials               	| WIP     	|                                                                              	|
+| Bill of Materials               	| 1.0     	| [SPA_Assembly](/Documentation/SPA_BOM_v1.0.xlsx)                                                                             	|
 | Assembly Guide                  	| 1.0     	| [SPA_Assembly](/Documentation/SPA_Assembly_v1.0.pdf)                       	|
 | Mouthpiece Mount Assembly Guide 	| 1.0     	| [SPA_MPStand_Assembly](/Documentation/SPA_MPStand_Assembly_v1.0.pdf)      	|
 | Maker Checklist                 	| 1.0     	| [SPA_Checklist](/Documentation/SPA_Checklist_v1.0.pdf)                       	|
