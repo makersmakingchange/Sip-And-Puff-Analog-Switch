@@ -28,7 +28,7 @@ The Sip and Puff Switch uses a custom PCB to mount all of the electronic compone
 
 ### 3. Print the 3D Printable components
 
-Print the components for the enclosure and the mouthpiece mount: [3D Printing Files](/Build_Files/3D_Printing/). Total print time for the enclosure components is approximately 4.5 hours and for the mouthpiece mount components is approximately  
+Print the components for the enclosure and the mouthpiece mount: [3D Printing Files](/Build_Files/3D_Printing/). Total print time for the enclosure components is approximately 4.5 hours and for the mouthpiece mount components is approximately 2.5 hours.  
 
 ### 4. Assemble the Switch and Mouthpiece Mount
 
@@ -66,7 +66,7 @@ Reference the assembly instructions for the [Sip and Puff Switch](/Documentation
 
 ## About Us
 
-![Makers Making Change Logo](https://www.makersmakingchange.com/wp-content/uploads/logo/mmc_logo.svg)
+<img src="https://www.makersmakingchange.com/wp-content/uploads/logo/mmc_logo.svg" width="500" alt="Makers Making Change Logo">
 
 Makers Making Change is an initiative of [Neil Squire](https://www.neilsquire.ca/), a Canadian non-profit that helps people with disabilities.
 
