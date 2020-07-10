@@ -8,7 +8,7 @@ The Sip and Puff Switch has two 3.5 mm mono outputs so it can control two device
 ## More info at
 
 - [Makers Making Change Project Page](https://www.makersmakingchange.com/project/sip-and-puff-switch/)
-- [Makers Making Change Forum Thread](https://forum.makersmakingchange.com)
+- [Makers Making Change Forum Thread](https://forum.makersmakingchange.com/t/sip-and-puff-switch/1024)
 
 
 ## Getting Started
@@ -17,13 +17,13 @@ The Sip and Puff Switch has two 3.5 mm mono outputs so it can control two device
 The [Bill of Materials](/Documentation/SPA_BOM_v1.0.xlsx) lists all of the parts and components required to build the Sip and Puff switch.
 
 ### 2. Order the Custom Printed Circuit Board (PCB)
-The Sip and Puff Switch uses a custom PCB to mount all of the electronic components. Refer to [MMC_PCB_Fabrication_Manual](\Documentation\PCB\MMC_PCB_Fabrication_Manual.pdf) for information on how to order a custom PCB. For convenience, the final generated Gerber files for several PCB manufacturers are listed below. If you want to use a different manufacturer, instructions for converting the original (Eagle Files)(/Design_Files/PCB/Eagle_Files) are also included in the MMC PCB Fabrication Manual.
+The Sip and Puff Switch uses a custom PCB to mount all of the electronic components. Refer to [MMC_PCB_Fabrication_Manual](/Documentation/MMC_PCB_Fabrication_Manual.pdf) for information on how to order a custom PCB. For convenience, the final generated Gerber files for several PCB manufacturers are listed below. If you want to use a different manufacturer, instructions for converting the original [Eagle Files](/Design_Files/PCB/Eagle_Files) are also included in the MMC PCB Fabrication Manual.
 
 | PCB Manufacturer                	| Website                                 	| Gerber Files                                                                                                        	|
 |---------------------------------	|-----------------------------------------	|-------------------------------------------------------------------------------------------------------------	|
-| JLCPCB                          	| https://jlcpcb.com/                     	| [JLCPCB_Sip_And_Puff_Analog_Switch.zip](\Build_Files\PCB\JLCPCB_Sip_And_Puff_Analog_Switch.zip)             	|
-| OSH Park                        	| https://oshpark.com/                    	| [OSHPark_Sip_And_Puff_Analog_Switch.zip](\Build_Files\PCB\OSHPark_Sip_And_Puff_Analog_Switch.zip)           	|
-| Seeed Fusion PCB                	| https://www.seeedstudio.com/fusion.html 	| [Seeed_Fusion_Sip_And_Puff_Analog_Switch.zip](\Build_Files\PCB\Seeed_Fusion_Sip_And_Puff_Analog_Switch.zip) 	|
+| JLCPCB                          	| https://jlcpcb.com/                     	|  [JLCPCB_Sip_And_Puff_Analog_Switch.zip](/Build_Files/PCB/JLCPCB_Sip_And_Puff_Analog_Switch.zip)             	|
+| OSH Park                        	| https://oshpark.com/                    	| [OSHPark_Sip_And_Puff_Analog_Switch.zip](/Build_Files/PCB/OSHPark_Sip_And_Puff_Analog_Switch.zip)           	|
+| Seeed Fusion PCB                	| https://www.seeedstudio.com/fusion.html 	| [Seeed_Fusion_Sip_And_Puff_Analog_Switch.zip](/Build_Files/PCB/Seeed_Fusion_Sip_And_Puff_Analog_Switch.zip) 	|
 
 
 ### 3. Print the 3D Printable components
