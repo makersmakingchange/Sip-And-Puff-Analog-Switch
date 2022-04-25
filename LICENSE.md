@@ -1,8 +1,8 @@
 This file includes licensing information for parts of the Resistive Touch Switch.
 
-Everything needed or used to design, make, test, or prepare the Light Proximity Switch is licensed under the CERN 2.0 Persmissive license <https://ohwr.org/project/cernohl/wikis/Documents/CERN-OHL-version-2> (CERN-OHL-P) .
+Everything needed or used to design, make, test, or prepare the Analog Sip and Puff Switch is licensed under the CERN 2.0 Persmissive license <https://ohwr.org/project/cernohl/wikis/Documents/CERN-OHL-version-2> (CERN-OHL-P) .
 
-Accompanying material such as instruction manuals, videos, and other copyrightable works that are useful but not necessary to design, make, test, or prepare the Light Proximity Switch are publshed under a Creative Commons Attribution-ShareAlike 4.0 license <https://creativecommons.org/licenses/by-sa/4.0/> (CC BY-SA 4.0)
+Accompanying material such as instruction manuals, videos, and other copyrightable works that are useful but not necessary to design, make, test, or prepare the Analog Sip and Puff Switch are publshed under a Creative Commons Attribution-ShareAlike 4.0 license <https://creativecommons.org/licenses/by-sa/4.0/> (CC BY-SA 4.0)
 
 =======================================================================
 CERN Open Hardware Licence Version 2 - Permissive
