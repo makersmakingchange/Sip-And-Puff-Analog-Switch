@@ -8,7 +8,6 @@ The Sip and Puff Switch has two 3.5 mm mono outputs so it can control two device
 ## More info at
 
 - [Makers Making Change Project Page](https://www.makersmakingchange.com/project/sip-and-puff-switch/)
-- [Makers Making Change Forum Thread](https://forum.makersmakingchange.com/t/sip-and-puff-switch/1024)
 
 
 ## Getting Started
@@ -42,12 +41,12 @@ Reference the assembly instructions for the [Sip and Puff Switch](/Documentation
 |---------------------------------	|---------	|------------------------------------------------------------------------------	|
 | Design Specification            	| WIP     	|                                                                              	|
 | Design Rationale                	| WIP     	|                                                                              	|
-| Bill of Materials               	| 1.0     	| [SPA_BOM](/Documentation/SPA_BOM_v1.0.xlsx)                                                                             	|
-| Assembly Guide                  	| 1.0     	| [SPA_Assembly](/Documentation/SPA_Assembly_v1.0.pdf)                       	|
-| Mouthpiece Mount Assembly Guide 	| 1.0     	| [SPA_MPStand_Assembly](/Documentation/SPA_MPStand_Assembly_v1.0.pdf)      	|
+| Bill of Materials               	| 1.0     	| [SPA_BOM](/Documentation/SPA_BOM_v1.0.xlsx)                                  	|
+| Assembly Guide                  	| 1.0     	| [SPA_Assembly](/Documentation/SPA_Assembly_v1.0.pdf)                         	|
+| Mouthpiece Mount Assembly Guide 	| 1.0     	| [SPA_MPStand_Assembly](/Documentation/SPA_MPStand_Assembly_v1.0.pdf)         	|
 | Maker Checklist                 	| 1.0     	| [SPA_Checklist](/Documentation/SPA_Checklist_v1.0.pdf)                       	|
-| Quick Guide                     	| 1.0    	| [SPA_Checklist](/Documentation/SPA_Quick_Guide_v1.0.pdf)                      |
-| User Guide                     	| 1.0    	| [SPA_Checklist](/Documentation/SPA_User_Guide_v1.0.pdf)                       |
+| Quick Guide                     	| 1.0     	| [SPA_Checklist](/Documentation/SPA_Quick_Guide_v1.0.pdf)                      |
+| User Guide                      	| 1.0     	| [SPA_Checklist](/Documentation/SPA_User_Guide_v1.0.pdf)                       |
 | Changelog                       	| 1.0     	| [SPA_Changelog](/Documentation/SPA_Changelog_v1.0.pdf)                       	|
 | PCB Fabrication Manual          	| 0.1     	| [MMC_PCB_Fabrication_Manual](/Documentation/MMC_PCB_Fabrication_Manual.pdf)  	|
 
@@ -65,6 +64,7 @@ Everything needed or used to design, make, test, or prepare the Analog Sip and P
 
 Accompanying material such as instruction manuals, videos, and other copyrightable works that are useful but not necessary to design, make, test, or prepare the Analog Sip and Puff Switch are publshed under a Creative Commons Attribution-ShareAlike 4.0 license <https://creativecommons.org/licenses/by-sa/4.0/> (CC BY-SA 4.0)
 
+<!-- ABOUT MMC START -->
 ## About Us
 
 <img src="https://www.makersmakingchange.com/wp-content/uploads/logo/mmc_logo.svg" width="500" alt="Makers Making Change Logo">
@@ -76,9 +76,9 @@ We are committed to creating a network of volunteer makers who support people wi
  - [www.MakersMakingChange.com](https://www.makersmakingchange.com/)
  - [GitHub](https://github.com/makersmakingchange)
  - [Thingiverse](https://www.thingiverse.com/makersmakingchange/about)
- - Twitter: [@makermakechange](https://twitter.com/makermakechange)
  - Instagram: [@makersmakingchange](https://www.instagram.com/makersmakingchange)
 
 ## Contact Us
 
 For technical questions, to get involved, or share your experience we encourage you to visit the [MMC Project Page]( https://www.makersmakingchange.com/project), [MMC Forum](https://forum.makersmakingchange.com), or contact info@makersmakingchange.com
+<!-- ABOUT MMC END -->
